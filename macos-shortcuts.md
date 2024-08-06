@@ -26,7 +26,7 @@ Those last two will be your best friends when you need quick snapshots from pres
 
 ### Mission Control
 
-![alt text](./media/mission-control.png)
+![Mission Control Example](./media/mission-control.png)
 Mission Control Allows you to see all the applications you have open as a miniature on one single screen (space). Common shortcut for it is F3
 
 Ctrl + Arrow Up -> Open Mission Control (Same as F3)
@@ -34,7 +34,11 @@ Ctrl + Arrow Left -> Go to the next Desktop (Space) on focused screen
 Ctrl + Arrow Right -> Go to the previous Desktop (Space) on focused screen
 Ctrl + Arrow Down -> Hide all applications but the one in focus
 
-The plus button on the right top will allow you to create new Desktops / Spaces that might be helpful for who is struggling with a single screen. However, still highly recommend a second screen.
+The plus button on the right top will allow you to create new Desktops / Spaces that might be helpful for who is struggling with a single screen.
+
+![Mission Control Add Button](./media/mission-control-01.png)
+
+However, still highly recommend a second screen.
 
 The Mission Control Desktops (Spaces) can definetly help you managing multiple tasks.
 For example, you can have one with Teams and the video class open, another one with VS Code and another one with your browser (localhost) of your current exercise/project.
