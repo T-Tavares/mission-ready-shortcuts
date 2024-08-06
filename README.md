@@ -6,8 +6,13 @@ This Repo is a selection of useful shortcuts for both MacOS and Windows. Each se
 
 It's a ongoing repo to help gather all those shortcuts. So eventually the list will grow and change for a better layout when we see fit. That said, if you want to contribute or if you spot any mistake flick me a message and we can collaborate to fix and make it even better.
 
-|                                             |
-| :-----------------------------------------: |
-|   [MacOS Shortcuts](./macos-shortcuts.md)   |
-| [Windows Shortcuts](./windows-shortcuts.md) |
-| [VS Code Shortcuts](./vs-code-shortcuts.md) |
+[MacOS Shortcuts](./macos-shortcuts.md)
+
+[Windows Shortcuts](./windows-shortcuts.md)
+
+[VS Code Shortcuts](./vs-code-shortcuts.md)
+
+<!--
+    I've used LATEX Markdown syntax for some text colouring on this project. Just keeping a clear reference here for future use.
+    $\textcolor{color}{\textsf{Text you want to display}}$
+ -->
