@@ -12,6 +12,14 @@ It's a ongoing repo to help gather all those shortcuts. So eventually the list w
 
 [VS Code Shortcuts](./vs-code-shortcuts.md)
 
+# Other shortcut sources
+
+One of my favourite source for shortcuts is DevHints, it covers not only shortcuts but also give cheatsheets on many development languages like CSS, HTML, etc.
+[DevHints](https://devhints.io/)
+
+And since I've started on the cheatsheets topic another one is OverAPI, it's essentially a collection of links made into a cheatsheet for several developers languages.
+[OverAPI](https://overapi.com/)
+
 <!--
     I've used LATEX Markdown syntax for some text colouring on this project. Just keeping a clear reference here for future use.
     $\textcolor{color}{\textsf{Text you want to display}}$

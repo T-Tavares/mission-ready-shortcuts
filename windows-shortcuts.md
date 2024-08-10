@@ -38,11 +38,19 @@ This one will be your best friend when you need quick snapshots from presentatio
 
 ### Task View
 
+Allow you to see all the applications you have opened, and navigate through them easly. Additionally, you can create new "Desktop" / "Spaces" that can keep your applications separated as you see fit.
+
+![Task View](./media/task-view.png)
+
 $\textcolor{lightSkyBlue}{\textsf{Windows Key + Tab}}$ -> Open Task View
 
 $\textcolor{lightSkyBlue}{\textsf{Ctrl + Windows Key + Arrow Left}}$ -> Navigate through Desktop Views
 
 $\textcolor{lightSkyBlue}{\textsf{Ctrl + Windows Key + Arrow Right}}$ -> Navigate through Desktop Views
+
+Click on the Plus button to add a new desktop.
+
+![Task View add Space](./media/task-view-01.png)
 
 The Task View can definetly help you managing multiple tasks.
 For example, you can have one "Desktop" with Teams and the video class open, another one with VS Code and another one with your browser (localhost) of your current exercise/project.

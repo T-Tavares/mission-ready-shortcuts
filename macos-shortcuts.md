@@ -18,6 +18,8 @@ $\textcolor{greenYellow}{\textsf{Ctrl + CMD + F}}$ -> Use app in full screen (Fo
 
 $\textcolor{greenYellow}{\textsf{CMD + Tab}}$ -> Switch to "next" most recently used app
 
+$\textcolor{greenYellow}{\textsf{CMD + Q}}$ -> quit an app
+
 $\textcolor{greenYellow}{\textsf{Option + CMD + Esc}}$ -> Force quit an app
 
 $\textcolor{greenYellow}{\textsf{CMD + ,}}$ -> Open preferences for the app you're using (work on most applications)
